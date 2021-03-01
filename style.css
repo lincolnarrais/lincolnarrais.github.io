@@ -1,0 +1,42 @@
+body{
+    max-width: 80%;
+    margin: 0 auto;
+    font-family: 'Roboto';
+    background-color: lavender;
+}
+
+img {
+    max-width: 80%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+h5.assinatura-data {
+    text-align: end;
+}
+
+p {
+    text-align: justify;
+    font-size: 16px;
+}
+
+p.versiculo-biblico {
+    margin: 0;
+    font-family: monospace;
+    font-size: 16px;
+    hyphens: auto;
+}
+
+.citacao-biblica {
+    background-color: #f9f9f9;
+    padding: 16px;
+}
+
+.divider {
+    border-top: 3px solid #555555;
+}
