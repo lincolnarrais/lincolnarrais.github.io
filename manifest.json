@@ -1,6 +1,6 @@
 {
-    "name": "o_tilt_vem_na_velocidade_da_shock_wave",
-    "short_name": "o_tilt_vem_na_velocidade_da_shock_wave",
+    "name": "flutter_demo",
+    "short_name": "flutter_demo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
