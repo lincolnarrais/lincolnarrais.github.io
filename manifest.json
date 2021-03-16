@@ -1,6 +1,6 @@
 {
-    "name": "boletim_epidemiologico_de_camocim",
-    "short_name": "boletim_epidemiologico_de_camocim",
+    "name": "movie_app_tutorial",
+    "short_name": "movie_app_tutorial",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
